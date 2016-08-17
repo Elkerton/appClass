@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+body{
+    font-size: 16px;
+    background-image: linear-gradient(to right, rgba(153, 153, 195, 0.64), rgba(147, 167, 39, 0.72), rgba(162, 234, 141, 0.82));
+    font-family: 'Droid Sans', sans-serif;
+    padding: 3%;
+}
+
+#title{
+    margin-top: 7%;
+    font-size: 5em;
+}
+
+span{
+    font-size: 1.8em;
+    margin-top: 5%;
+}
+
+input{
+    font-size: 2em;
+    padding: 0.1em;
+    outline: 0;
+    background-image: linear-gradient(to right, #b6c091, white);
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(171, 171, 179, 0.86);
+    border-radius: 6px;
+}
+
+button{
+    margin-left: 0;
+}
+
+#btn-login{
+    width: 50.1%;
+}
+
+#btns{
+    margin-left: 45.4%;
+}
+
+#btns button{
+    margin-top: 7%;
+    padding: 6%;
+}
+
+input{
+    border: none;
+    background-image: none;
+    background: none;
+    border-bottom: solid;
+    border-width: 1px;
+    border-radius: 0px;
+    margin-bottom: 1em;
+    width: 7em;
+    margin-left: 1em;
+    border-color: #909081;
+    margin-top: 0.7em;
+}
+

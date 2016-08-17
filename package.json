@@ -1,0 +1,28 @@
+{
+  "name": "appclass",
+  "version": "1.0.0",
+  "description": "The best way of study",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bootstrap-sweetalert": "^1.0.1",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8",
+    "nodemon": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elkerton/appClass.git"
+  },
+  "author": "Elkerton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elkerton/appClass/issues"
+  },
+  "homepage": "https://github.com/Elkerton/appClass#readme"
+}
